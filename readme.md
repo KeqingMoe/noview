@@ -37,7 +37,7 @@ npm start
 #include <iostream>
 int main()
 {
-    std::cout << "=START=";
+    std::cout << "=RIGHT=";
 }
 ```
 
