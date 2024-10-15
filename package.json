@@ -1,0 +1,16 @@
+{
+  "type": "module",
+  "dependencies": {
+    "request": "^2.88.2"
+  },
+  "name": "noview",
+  "version": "1.0.0",
+  "main": "main.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "keqingmoe",
+  "license": "ISC",
+  "description": ""
+}
